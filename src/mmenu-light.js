@@ -15,5 +15,7 @@ import MmenuLight from '../esm/core/index';
 //  Export module
 export default MmenuLight;
 
+if (typeof window !== 'undefined' && window) {
 //	Global namespace
-window.MmenuLight = MmenuLight;
+  window.MmenuLight = MmenuLight;
+}
