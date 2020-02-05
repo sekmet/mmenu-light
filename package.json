@@ -7,7 +7,7 @@
 	"license": "CC-BY-4.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/FrDH/mmenu-light.git"
+		"url": "https://github.com/sekmet/mmenu-light.git"
 	},
 	"description": "The (extremely) lightweight alternative to the mmenu.js plugin for creating off-canvas mobile menus with the exact look and feel.",
 	"keywords": [

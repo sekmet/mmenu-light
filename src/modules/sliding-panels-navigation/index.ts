@@ -153,7 +153,8 @@ export default class MmSlidingPanelsNavigation {
             const target = evnt.target as HTMLElement;
 
             if (target.matches('a')) {
-                evnt.stopImmediatePropagation();
+                //evnt.stopImmediatePropagation();
+              //TODO make a option to allow default link behave like a link or not!
                 return true;
             }
             return false;
