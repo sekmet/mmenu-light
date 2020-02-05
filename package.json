@@ -1,5 +1,5 @@
 {
-	"name": "mmenu-light",
+	"name": "@sekmet/mmenu-light",
 	"version": "3.0.2",
 	"main": "dist/mmenu-light.js",
 	"module": "src/mmenu-light.js",
